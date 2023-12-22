@@ -1,10 +1,4 @@
-- 👋 Hi, I’m @kucingbasah737
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+My wallet addresses:
 
-<!---
-kucingbasah737/kucingbasah737 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+[47kucingmMofTNakN2uhH4YG3m9fwK4bGQNEnRANf26Ei4DATqWj1B2bADCtZdYQmEREcz4yVWEkMgMQdffLNsu8Fh4rhkc](https://github.com/kucingbasah737/redirector/raw/main/public/img/redirector-xmr-donate.png)
+[nano_3kucingsf315nsym3whdtea86hy7ighetdyseuczue9p8j15pm8bx99beafa](https://github.com/kucingbasah737/redirector/raw/main/public/img/redirector-xno-donate.png)
